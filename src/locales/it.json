@@ -1,0 +1,135 @@
+{
+    "menu": {
+        "home": "HOME",
+        "aboutMe": "CHI SIAMO",
+        "services": "SERVIZI",
+        "projects": "PROGETTI",
+        "contact": "CONTATTI",
+        "letsTalk": "PARLIAMONE",
+        "ContactUs":"Contattaci",
+        "Write":"Scrivi un'e-mail",
+        "facebook":"Contattaci su Facebook"
+    },
+    "banner": {
+        "heading1": "EHI! SIAMO SVILUPPATORI WEB",
+        "heading2": "CREIAMO SOLUZIONI DIGITALI",
+        "paragraph1": "Con un’esperienza combinata di 14 anni nello sviluppo web,",
+        "paragraph2": "siamo specializzati nella creazione di siti web e applicazioni moderne ed efficaci.",
+        "paragraph3": "Da WordPress a Vue.js, Angular, .NET, Drupal e PrestaShop,",
+        "paragraph4": "offriamo risultati che aiutano freelance e aziende a crescere.",
+        "paragraph5": "Lasciaci trasformare le tue idee in realtà con soluzioni web creative e affidabili."
+    },
+    "about": {
+        "badge": "CHI SIAMO",
+        "heading": "Siamo disponibili per",
+        "uiux": "UI/UX",
+        "PROJECTS": "progetti di progettazione",
+        "paragraph": "Con 14 anni di esperienza combinata, ci specializziamo nella creazione di soluzioni web personalizzate per aziende e imprenditori. Da WordPress a Vue.js, Angular, .NET, Drupal e PrestaShop, offriamo siti web e applicazioni che aiutano i nostri clienti a avere successo online.",
+        "projectsDelivered": "Progetti consegnati",
+        "yearsExperience": "Anni di esperienza",
+        "customIntegrations": "Integrazioni personalizzate",
+        "getInTouch": "CONTATTACI"
+    },
+    "services": {
+        "badge": "SERVIZI",
+        "heading_part1": "QUELLO CHE OFFRIAMO",
+        "heading_part2": "",
+        "readMore": "Leggi di più",
+        "webDevelopment": {
+            "title": "Sviluppo Web",
+            "point1": "Vue.js, Angular, .NET, WordPress, Drupal, PrestaShop",
+            "point2": "Applicazioni web personalizzate",
+            "point3": "Soluzioni di e-commerce"
+        },
+        "websiteDesign": {
+            "title": "Progettazione di siti web",
+            "point1": "Design moderno UI/UX",
+            "point2": "Responsive e mobile-friendly",
+            "point3": "Branding personalizzato"
+        },
+        "maintenanceSupport": {
+            "title": "Manutenzione e Supporto",
+            "point1": "Risoluzione rapida dei problemi",
+            "point2": "Aggiornamenti e miglioramenti di sicurezza",
+            "point3": "Consulenza tecnica"
+        }
+    },
+    "project": {
+    "myWork": "I MIEI LAVORI",
+    "title": "Progetti",
+    "livePreview": "Anteprima live",
+    "type": "Tipo",
+    "langages": "Linguaggi",
+    "platform": "Piattaforma",
+    "country": "Paese",
+    "liveURL": "URL Live",
+      "project1": {
+        "title": "Pizza Fina",
+        "subtitle": "WordPress & Angular",
+        "description": "Il sito pizzafina.ca è una piattaforma online per PizzaFina, un servizio di ristorazione che offre un’ampia gamma di menu tra cui pizze, specialità, ali di pollo, contorni, poutine, panini, insalate, patatine fritte e bevande. I clienti possono ordinare online con consegna a domicilio.",
+        "type": "Sito Web",
+        "langages": "PHP, HTML, CSS, JS",
+        "platform": "WordPress",
+        "country": "Canada",
+        "liveURL": "https://pizzafina.ca/"
+      },
+      "project2": {
+        "title": "SGE & IGE",
+        "subtitle": "Wordpress",
+        "description": "Il sito https://sgeieg.fr/ si concentra sul ramo professionale delle Industrie Elettriche e del Gas (IEG) in Francia. Rappresenta le aziende coinvolte nella produzione, trasporto, distribuzione, commercializzazione e fornitura di elettricità e gas il cui personale è soggetto allo status nazionale del personale IEG.",
+        "type": "Sito Web",
+        "langages": "PHP, HTML, CSS, JS",
+        "platform": "WordPress",
+        "country": "Francia",
+        "liveURL": "https://sgeieg.fr/"
+      },
+      "project3": {
+        "title": "SOC Hockey",
+        "subtitle": "Wordpress & VueJS",
+        "description": "Il sito https://www.hockey-chambery.com/ è il sito ufficiale del club di hockey di Chambéry, conosciuto come \"Les Éléphants de Chambéry.\" Presenta notizie del club, informazioni sui giocatori, album fotografici, classifiche per la loro squadra di Divisione 1, informazioni sui biglietti, partner e un negozio del club.",
+        "type": "Sito Web",
+        "langages": "PHP, HTML, CSS, JS",
+        "platform": "WordPress",
+        "country": "Francia",
+        "liveURL": "https://www.hockey-chambery.com/"
+      },
+      "project4": {
+        "title": "Najen nature",
+        "subtitle": "Prestashop",
+        "description": "Il sito https://najen-nature.com/ è focalizzato sui prodotti naturali e biologici, offrendo una gamma di prodotti ecologici e orientati alla salute. Sottolinea una connessione con la natura, promuovendo scelte di vita sostenibili e naturali attraverso i suoi prodotti e servizi.",
+        "type": "Sito Web",
+        "langages": "PHP, HTML, CSS, JS",
+        "platform": "Prestashop",
+        "country": "Tunisia",
+        "liveURL": "https://najen-nature.com/"
+      }
+    
+    },
+    "contact": {
+        "title": "DISCUSSIONE DEL TUO PROGETTO",
+        "description": "Sempre disponibile per freelance se arriva il progetto giusto. Non esitare a contattarmi.",
+        "firstNameLabel": "NOME",
+        "firstNamePlaceholder": "Nome *",
+        "emailLabel": "LA TUA EMAIL",
+        "emailPlaceholder": "Email *",
+        "subjectLabel": "OGGETTO",
+        "subjectPlaceholder": "Oggetto *",
+        "messageLabel": "IL TUO MESSAGGIO",
+        "messagePlaceholder": "Il tuo messaggio *",
+        "sendButton": "INVIA MESSAGGIO"
+    },
+    "team": {
+        "team1": "SQUADRA",
+        "we":"CHI ",
+        "NOUS":"SIAMO",
+            "frontendDeveloper": "Sviluppatore Front-End",
+    "fullStackDeveloper": "Sviluppatore Full Stack",
+    "memberNotFound": "Membro non trovato.",
+    "sofienDescription": "Sviluppatore Front-End dedicato con oltre sette anni di esperienza nella creazione di applicazioni web reattive e ad alte prestazioni utilizzando tecnologie come Vue.js, Angular e WordPress. Abile nell'implementazione UI/UX, integrazione API e ottimizzazione delle prestazioni web per esperienze utente fluide. Esperto nella traduzione di design Figma in codice funzionante e nel miglioramento delle interfacce con animazioni avanzate. Esperienza nella collaborazione con team backend, controllo versione con Git, compatibilità cross-browser e conformità W3C. Recentemente trasferitosi a Bologna, Italia, pronto a contribuire con la sua esperienza a progetti innovativi in ambienti dinamici.",
+    "khalilDescription": "Sviluppatore Web Full Stack specializzato in .NET e Angular, con diversi anni di esperienza nella progettazione e costruzione di applicazioni web performanti e sicure. Competente nella creazione di API, integrazione UX/UI, gestione database e lavoro in team agili. Appassionato di innovazione e sviluppo di soluzioni su misura per le esigenze dei clienti."
+
+    },
+    "footer": {
+        "copyright": "© 2025 tutti i diritti riservati"
+    }
+}

@@ -1,0 +1,22 @@
+:root{
+    --paragraph : 16px;
+    --colorgrey : #a5abbd;
+    --colorprimary : #64ffda;
+    --neon-cyan: #00ffff;
+    --darker-bg: #050505;
+    --text-primary: #ffffff;
+    --shadow-cyan: 0 0 20px rgba(0, 255, 255, 0.5);
+    --dark-blue : #0a192f;
+}
+$angle: 0deg;
+$numPanels: 8;
+$color1: (#F9DEC9 #F9DEC9); 
+$color2: (#99B2DD #99B2DD); 
+$color3: (#E9AFA3 #E9AFA3); 
+$color4: (#685044 #685044); 
+$color5: (#59C3C3 #59C3C3); 
+$color6: (#84A98C #84A98C); 
+$color7: (#CAD2C5 #CAD2C5); 
+$color8: (#EBEBEB #EBEBEB); 
+$color9: #edf2f3;
+$colors-list: $color1 $color2 $color3 $color4 $color5 $color6 $color7 $color8;

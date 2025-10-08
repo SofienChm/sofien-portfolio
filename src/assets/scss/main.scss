@@ -1,0 +1,49 @@
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+
+/******* title  ****/
+
+p{
+    font-family: 'Inter';
+    font-size: var(--paragraph);
+    color: var(--colorgrey);
+}
+.section-title{
+    h2{
+        color: #ccd6f6;
+        font-family: "SFMono";
+    }
+}
+
+
+/**** Titles ***/
+
+.webmaster2-heading1{
+    display: inline-block;
+    background: rgba(44, 56, 98, 0.03);
+    color: #2a3d7f;
+    padding: 2px 15px;
+    margin: 0 auto 30px auto;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+.webmaster2-heading1-h3{
+    width: 80%;
+    font-size: 35px;
+    line-height: 50px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    padding-bottom: 30px;
+}
+
+/**** text align ****/
+.text-left{
+    text-align: left;
+}

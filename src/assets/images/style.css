@@ -1,0 +1,115 @@
+:root{
+    --paragraph : 16px;
+    --colorgrey : #a5abbd;
+    --colorprimary : #64ffda;
+    --neon-cyan: #00ffff;
+    --darker-bg: #050505;
+    --text-primary: #ffffff;
+    --shadow-cyan: 0 0 20px rgba(0, 255, 255, 0.5);
+}
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-Light.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-Regular.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-MediumItalic.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-Medium.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-LightItalic.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-Bold.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-BoldItalic.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-HeavyItalic.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-Heavy.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-Semibold.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFMono';
+    src: url('../../assets/fonts/SFMono-SemiboldItalic.woff2') format('woff2'),
+        url('../../assets/fonts/SFMono-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../../assets/fonts/Inter-Regular.woff2') format('woff2'),
+        url('../../assets/fonts/Inter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
